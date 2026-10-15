@@ -2,8 +2,8 @@
   <img src= "https://github.com/amrita-tifac-cys-btech/.github-private/blob/main/profile/assets/AVV_CYS_Logo.png" alt="Amrita TIFAC" width=700 />
 </p>
 
-# B.Tech CSE (CYS) Batch 2023-27 ![](https://img.shields.io/badge/-To_be_Started-orange)
-![](https://img.shields.io/badge/Batch-23UCYS-gold) ![](https://img.shields.io/badge/Faculty_Guides-14-gold) ![](https://img.shields.io/badge/Teams-14-gold)  <br/>
+# B.Tech CSE (CYS) Batch 2023-27 ![](https://img.shields.io/badge/-Live-darkgreen)
+![](https://img.shields.io/badge/Batch-23UCYS-gold) ![](https://img.shields.io/badge/Faculty_Guides-14-gold) ![](https://img.shields.io/badge/Teams-15-gold)  <br/>
 ![](https://img.shields.io/badge/Domain-Web_Security-blue)
 ![](https://img.shields.io/badge/Domain-Network_Security-blue)
 ![](https://img.shields.io/badge/Domain-Cloud_Security-blue)
@@ -22,7 +22,7 @@
 
 | Team #ID | Project Guide                  | Roll Numbers           |    Team Members    |  Project Title    |
 |:--------:|:-----------------------------:|:-----------------------:|:--------------------|-------------------|
-| [23UCYS#01](https://github.com/amrita-tifac-cys-btech/2023-Team-01) |   [Mr. Ramaguru Radhakrishnan](https://www.amrita.edu/faculty/ramaguru-radhakrishnan/)  | 23034 <br/> 23045 <br/> 23052 | Ponvedica M S <br/> Soffia K N <br/> Vedhavarshini Vijayakumar |   |
+| [23UCYS#01](https://github.com/amrita-tifac-cys-btech/VSCode-Extension-Vulnerability-Detection) |   [Mr. Ramaguru Radhakrishnan](https://www.amrita.edu/faculty/ramaguru-radhakrishnan/)  | 23034 <br/> 23045 <br/> 23052 | Ponvedica M S <br/> Soffia K N <br/> Vedhavarshini Vijayakumar |   |
 | [23UCYS#02](https://github.com/amrita-tifac-cys-btech/2023-Team-02) |   [Dr. Sindhu V](https://www.amrita.edu/faculty/sindhu-v/)            | 23001 <br/> 23012 <br/> 23021 <br/> 23036  | Akash Varunn D <br/> Dinesh V Masuti <br/> KCK Sanjai <br/> Praneesh R V |   |
 | [23UCYS#03](https://github.com/amrita-tifac-cys-btech/2023-Team-03) |   [Dr. Rohini M](https://www.amrita.edu/faculty/m-rohini/)             | 23002 <br/> 23011 <br/> 23018 <br/> 23057  | Anagha B Prasanth <br/> Devinandha <br/> Ishitha Praveen <br/> Rishab Nair |   |
 | [23UCYS#04](https://github.com/amrita-tifac-cys-btech/2023-Team-04) |   [Mr. Akhil K J](https://www.amrita.edu/faculty/akhil-k-j/)            | 23010 <br/> 23046 <br/> 23023 <br/> 23017  | Deepak Sasidharan <br/> Sooraj Suresh Nair <br/> Karun A T <br/> Hiba Leeyakath S |   |
